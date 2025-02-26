@@ -1,1 +1,10 @@
-# MATH451
+java c
+MATH451 Clinical Trials
+MATH451   Project:   Study   Design   and   the   Choice   of   Control   Group   in   Clinical   TrialsPrevious   studies   of Vinpocetine   (an   extract   from the   periwinkle   plant)   sug-gest that   it   improves the   memory   by   increasing the   blood flow   in   the   brain.   A   neurologist   suspects   that   the   increased   blood   flow   might   also   affect   the   IQ (as   measured   by   the   Wechsler   Adult   Intelligence   Scale)   by   fostering   cortical re-mapping.   You   have   been   approached   to   help   design   a   Phase   III   clinical   study   and   to   prepare   a   trial   protocol.   The working   hypothesis   is that   10mg   of   Vinpocetine   daily   increases   the   IQ   by   at   least   10   points:   a   difference   of   10   points   is   clinically   relevant.
+1.      Describe   in   detail   how   the   study   should   be   undertaken   with   clear   mo-   tivation   for:   conducting   the   trial,   the   design   choices   made   and   the analysis   planned.   (25   Marks)
+2.      Derive the required sam代 写MATH451 Clinical TrialsPython
+代做程序编程语言ple size for your study ensuring that this derivation   links   to   your   planned   analysis.   You   may   assume   that   IQ measurements   are   normally   distributed   with   a   standard   deviation   of
+15.   The   mean   IQ   without   intervention   is   100,   a   two-sided   type-I-error of   10%   should   be   used   and   the   power   should   be   at   least   80%.    (25   Marks)NOTES:   If you   need   any   further   information   from   the   neurologist   clearly   point   out   what   information   you   require   and   make   an   assumption   about   it   for   the   sample   size   calculations.   You   may   also   specify   questions   that   you   wish   to   ask,   more   generally.Parts   a)   and   b)   should   be   prepared   as   a   trial   protocol   using   ICH   E9   and the   lecture   notes   etc.   The   protocol   should   not   exceed   3   pages   of text   using   size   11 font   and excluding references. You   may   also   have   an   appendix   tables   and   diagrams   to   illustrate   your   design   plans.
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
